@@ -1,8 +1,8 @@
 OpenCart 4.0.x
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unzip the archive.
+Then follow the attached instructions.
 
-Разрабатывался на версии CMS OpenCart 4.0.1.1
+Support for CMS OpenCart 4.0.1.1
